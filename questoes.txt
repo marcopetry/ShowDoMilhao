@@ -1,0 +1,15 @@
+Quantos anos tem um seculo?,10,50,100,1000,3
+Qual o naipe do baralho tem o desenho de um coração?,Copas,Ouro,Espada,Paus,1
+Qual casal foi expulso do paraiso?,Jose e Maria,Dalila e Sansao,Thaeme e Tiago,Adao e Eva,4
+Como eh conhecido o jogador Edmundo?,Imperador,Fenomeno,Animal,Mago,3
+Que animal era Moby Dick?,Baleia,Tubarao,Cachorro,Rato,1
+Qual eh a orixa conhecida como A rainha do mar?,Axe,Pomba Gira,Iemanja,Tupa,3
+Quem traiu Jesus?,Pedro,Andre,Marcos,Judas,4
+Qual eh o esporte praticado por Neymar?,Volei,Corrida,Futebol,Tenis,3
+Quantos anos Branca de Neve tinha?,1,7,12,6,2
+Qual eh a capital do Parana?,Londrina,Dois Vizinhos,Curitiba,Por Alegre,3
+Que deus eh descrito como uma crianca gorducha com arco e flexa?,Cupido,Zeus,Netuno,Poseidom,1
+Em qual jogo o ganhador grita o nome do jogo em sinal de vitoria?,Pega pega,Esconde esconde,Xadrez,Bingo,4
+De que eh feito pe de moleque?,Carne,Amendoim,Batata,Abacate,2
+O que Rapunzel jogava pela janela?,Cabelo,Caixas,Cordas,Pombos,1
+Pode conter ou não métodos abstratos?,Heranca,Classe abstrata,Encapsulamento,Classe concreta,2

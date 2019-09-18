@@ -1,0 +1,5 @@
+cachorro,animal
+duro de matar,filme
+fusca,carro
+banana,fruta
+alface,verdura
